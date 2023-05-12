@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Kzumelvin
-- 👀 I’m interested in python, beerpong and arts
-- 🌱 I’m currently learning python and c#
+- 👀 I’m interested in python, web dev, typescript and arts
+- 🌱 I’m currently learning to be a better web dev
 - 📫 How to reach me ...
   - kevin@beerpongturnier.de
 
